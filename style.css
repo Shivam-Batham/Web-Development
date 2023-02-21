@@ -1,0 +1,33 @@
+html{
+    background-color: rgb(235, 227, 227);
+}
+table{
+    border: 1px solid black;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+table tr{
+    border: 1px solid red;
+}
+
+tr td{
+    border: 1px solid red;
+    background-color: blanchedalmond;
+}
+th td{
+    border-bottom: 1px solid #ddd;
+}
+h1{
+    color: blueviolet;
+    justify-content: center;
+    text-align: center;
+}
+#tableCaption{
+    color: black;
+    background-color: rgb(160, 148, 148);
+}
+#Shivam{
+    color: rgb(101, 129, 129);
+}
